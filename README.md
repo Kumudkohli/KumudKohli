@@ -6,7 +6,7 @@
 - ##### 📊 Helping a growing  startup in their Business Decision Making. 
 - ##### 📝 Ready to serve your company with the learnt skills.
 ### 📚 Projects 📚
-- ##### For my portfolio, click [HERE]()
+- ##### For my portfolio, click [HERE](https://github.com/Kumudkohli/Portfolio/blob/main/README.md)
 ### 💡 Core Competencies 💡
 - ##### Tools: SQL, Python, Tableau
 - ##### Skills: Data Cleaning and Wrangling, Data Analysis, Data Visualisation, , Relational Databases, Dashboard Design and Development
