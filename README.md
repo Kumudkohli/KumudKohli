@@ -9,7 +9,7 @@
 - ##### For my portfolio, click [HERE](https://github.com/Kumudkohli/Portfolio/blob/main/README.md)
 ### 💡 Core Competencies 💡
 - ##### Tools: SQL, Python, Tableau
-- ##### Skills: Data Cleaning and Wrangling, Data Analysis, Data Visualisation, , Relational Databases, Dashboard Design and Development
+- ##### Skills: Data Cleaning and Wrangling, Data Analysis, Data Visualisation, , Relational Databases, Dashboard Design and Development, Business Requirements.
 ### ⚡️ Currently ⚡️
 - ##### Landed in Canada in 2022
 - ##### Ready to step my foot in Canada Data Analysis Industry with my Canadian Work Experience
