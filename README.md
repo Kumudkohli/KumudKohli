@@ -1,5 +1,5 @@
 ## - Hi there! 🙋‍♂️
-##### I'm Kumud, a Business Systems Analyst from Canada.
+##### I'm Kumud, an experienced Technical Product/ Program Manager from Canada.
 
 ### ✨ About Me in 30 Secs ✨
 - ##### 👩🏻‍💻 Experienced Business Analyst
